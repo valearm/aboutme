@@ -35,6 +35,4 @@ I'm a Computer Science Engineer, specializing in data engineering, machine learn
 ## 📫 How to Reach Me
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/valerio-armenante-77828419a/) or via email at [valerioarmenante@gmail.com].
 
-## Ex
-
 Thanks for visiting! Let's build something great together.
