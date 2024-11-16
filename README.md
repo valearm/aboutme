@@ -7,7 +7,7 @@ I'm a Computer Science Engineer, specializing in data engineering, machine learn
 - 💻 Experienced in data engineering and machine learning, with proficiency in Python, scikit-learn, TensorFlow, and other tools in the data science ecosystem.
 - 🏃‍♂️ Passionate about sports and always eager to combine my technical skills with my enthusiasm for athletics.
 - 📂 Worked on various projects within the informatics field, gaining hands-on experience in software engineering and project management.
-- 
+  
 ## 📂 Past Projects
 ### [Project 1: Amanzon Offer Telegram Bot](https://github.com/valearm/bot_telegram)
 **Description**: This project contains a Telegram bot written in Python that interacts with Amazon using the PA-API 5 SDK. The bot allows users to query Amazon's product catalog via Telegram, offering an easy interface for retrieving product details.
@@ -21,6 +21,22 @@ I'm a Computer Science Engineer, specializing in data engineering, machine learn
 
 ### [Project 4: Auto-Trading Software] (Private)
 **Description**: This project is a fully **automated trading system** developed in Python using the **MetaTrader5** API. The system connects to a MetaTrader5 account to execute real-time trades based on a proprietary algorithm designed to identify optimal entry and exit points in the market. The algorithm incorporates technical indicators, price patterns, and market trends to make informed trading decisions.
+
+## 💡 Challenges
+
+Building skills through challenges on platforms like LeetCode and Kaggle has been a valuable part of my learning journey. Here’s a look at some key areas I’ve focused on:
+
+- **Algorithmic Challenges on LeetCode**: I regularly solve problems on LeetCode to strengthen my data structures and algorithms skills, with a focus on preparing for technical interviews. Key areas include:
+  - **Dynamic Programming**: Tackling complex problems like the Longest Palindromic Substring has deepened my understanding of optimization techniques.
+  - **Bit Manipulation**: Practicing bitwise operations has improved my problem-solving speed and adaptability.
+  - **Advanced Data Structures**: Working with structures like heaps, tries, and graphs has helped me approach a wider variety of coding problems with confidence.
+
+- **Data Science Competitions on Kaggle**: I engage in Kaggle competitions to refine my data science and machine learning expertise. These challenges provide hands-on experience with:
+  - **Data Preprocessing**: Handling large, unstructured datasets to clean, transform, and make data ready for modeling.
+  - **Feature Engineering**: Developing meaningful features to improve model accuracy, especially in complex domains like natural language processing and computer vision.
+  - **Model Tuning**: Optimizing algorithms through hyperparameter tuning and ensembling to improve performance in competitive settings.
+
+These challenges have not only improved my technical skills but also fostered a strategic approach to problem-solving and adaptability in dynamic environments.
 
 ## 🚀 Technical Skills
 - **Languages:** Python, SQL
