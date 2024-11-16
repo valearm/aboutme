@@ -12,7 +12,7 @@ I'm a Computer Science Engineer, specializing in data engineering, machine learn
 ### [Project 1: Amanzon Offer Telegram Bot](https://github.com/valearm/bot_telegram)
 **Description**: This project contains a Telegram bot written in Python that interacts with Amazon using the PA-API 5 SDK. The bot allows users to query Amazon's product catalog via Telegram, offering an easy interface for retrieving product details.
 
-### [Project 2: Italian Lottery Prediction]([https://github.com/yourusername/project2](https://github.com/valearm/LSTM-Project))
+### [Project 2: Italian Lottery Prediction](https://github.com/valearm/LSTM-Project)
 **Description**:  This project involves **web scraping** historical data from an Italian lottery game to build a dataset of winning numbers and their draw dates. Using this data, an **LSTM (Long Short-Term Memory) neural network** is applied to identify potential patterns and trends for predicting future draws.
 
 ## 📂 Current Projects
