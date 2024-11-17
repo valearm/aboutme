@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Valerio Armenante
 
-I'm a Computer Science Engineer, specializing in data engineering, machine learning, and software development. I graduated from the Politecnico of Milan with a Master Degree in Computer Science and Engineering, where I built a strong foundation in data structures, algorithms, and programming. 
+I'm a Computer Science Engineer, specializing in data engineering, machine learning, and software development. I graduated at the Politecnico of Milan with a Master Degree in Computer Science and Engineering, where I built a strong foundation in data structures, algorithms, and programming. 
 
 ## 👨‍💻 About Me
 - 🔍 Currently exploring advanced data science techniques and their applications in real-world scenarios.
