@@ -4,7 +4,7 @@ I'm a Computer Science Engineer, specializing in data engineering, machine learn
 
 ## 👨‍💻 About Me
 - 🔍 Currently exploring advanced data science techniques and their applications in real-world scenarios.
-- 💻 Experienced in data engineering and machine learning, with proficiency in Python, scikit-learn, TensorFlow, and other tools in the data science ecosystem.
+- 💻 Experienced in data engineering and machine learning, with proficiency in Python, scikit-learn, TensorFlow, Keras and other tools in the data science ecosystem.
 - 🏃‍♂️ Passionate about sports and always eager to combine my technical skills with my enthusiasm for athletics.
 - 📂 Worked on various projects within the informatics field, gaining hands-on experience in software engineering and project management.
   
