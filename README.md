@@ -45,7 +45,6 @@ Building skills through challenges on platforms like LeetCode and Kaggle has bee
 
 - **Algorithmic Challenges on LeetCode**: I regularly solve problems on LeetCode to strengthen my data structures and algorithms skills, with a focus on preparing for technical interviews. Key areas include:
   - **Dynamic Programming**: Tackling complex problems like the Longest Palindromic Substring has deepened my understanding of optimization techniques.
-  - **Bit Manipulation**: Practicing bitwise operations has improved my problem-solving speed and adaptability.
   - **Advanced Data Structures**: Working with structures like heaps, tries, and graphs has helped me approach a wider variety of coding problems with confidence.
 
 - **Data Science Competitions on Kaggle**: I engage in Kaggle competitions to refine my data science and machine learning expertise. These challenges provide hands-on experience with:
