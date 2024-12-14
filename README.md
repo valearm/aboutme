@@ -22,7 +22,6 @@ I'm a Computer Science Engineer, specializing in data engineering, machine learn
 ### Project 4: Auto-Trading Software 
 **Description**: This project is a fully **automated trading system** developed in Python using the **MetaTrader5** API. The system connects to a MetaTrader5 account to execute real-time trades based on a proprietary algorithm designed to identify optimal entry and exit points in the market. The algorithm incorporates technical indicators, price patterns, and market trends to make informed trading decisions.
 
-
 ## Competitions on Kaggle 🏆
 
 ### [Movielens 🎬]
@@ -39,7 +38,7 @@ I'm a Computer Science Engineer, specializing in data engineering, machine learn
 - **Description**: This is a binary classification task. The goal is to predict labels (1 or 0) based on a training set of 1000 samples and a test set of 9000 samples.
 - **Approach**: I experimented with multiple models, and the best results came from using a **Support Vector Machine (SVM)** classifier. **XGBoost** also yielded similar results. ⚙️
 - **Results**: Accuracy: **0.87** ✅
-- 
+
 ## 💡 Challenges
 
 Building skills through challenges on platforms like LeetCode and Kaggle has been a valuable part of my learning journey. Here’s a look at some key areas I’ve focused on:
