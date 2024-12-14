@@ -22,6 +22,24 @@ I'm a Computer Science Engineer, specializing in data engineering, machine learn
 ### Project 4: Auto-Trading Software 
 **Description**: This project is a fully **automated trading system** developed in Python using the **MetaTrader5** API. The system connects to a MetaTrader5 account to execute real-time trades based on a proprietary algorithm designed to identify optimal entry and exit points in the market. The algorithm incorporates technical indicators, price patterns, and market trends to make informed trading decisions.
 
+
+## Competitions on Kaggle 🏆
+
+### [Movielens 🎬]
+- **Description**: Develop a content-based recommender system for movies using the Movielens dataset.
+- **Approach**: The approach used to build the recommender system is based on **Content-Based Filtering**, which relies on similarities between items (films) calculated from their metadata (title + genres). Additionally, I extended the model using **BERT transformers** for improved accuracy. 🤖
+  
+### [House Prices - Advanced Regression Techniques 🏠]
+- **Description**: This playground competition involves predicting the final price of homes in Ames, Iowa, based on 79 explanatory variables, including various aspects of the homes.
+- **Objective**: Predict the sales price for each house. The competition is evaluated based on **Root Mean Squared Error (RMSE)** between the predicted and actual sales prices (log-transformed).
+- **Approach**: I used a **Ridge Regression** model for this task. Special attention was given to managing missing values and properly encoding categorical columns. 🧑‍💻
+- **Results**: Best score: **0.17086 RMSE** 🥇
+
+### [Data Science London + Scikit-learn 📊]
+- **Description**: This is a binary classification task. The goal is to predict labels (1 or 0) based on a training set of 1000 samples and a test set of 9000 samples.
+- **Approach**: I experimented with multiple models, and the best results came from using a **Support Vector Machine (SVM)** classifier. **XGBoost** also yielded similar results. ⚙️
+- **Results**: Accuracy: **0.87** ✅
+- 
 ## 💡 Challenges
 
 Building skills through challenges on platforms like LeetCode and Kaggle has been a valuable part of my learning journey. Here’s a look at some key areas I’ve focused on:
